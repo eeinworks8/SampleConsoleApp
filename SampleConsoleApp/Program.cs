@@ -13,6 +13,8 @@ namespace SampleConsoleApp
 
             // Change local master copy
             // Change local master copy2
+
+            // FeatB commit
         }
     }
 }
